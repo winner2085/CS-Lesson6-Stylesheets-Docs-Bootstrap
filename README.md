@@ -2,7 +2,7 @@
 
 ## 🎯 Objectives
 Coders will:
-- Understand the importance of linking CSS to HTML both internally and externally.
+- Understand the importance of linking CSS to HTML both internally and externally!
 - Explore the purpose and use of documentation in coding.
 - Learn how to navigate resources like Code Nation Reference Table and W3Schools.
 - Understand how to import styles using Bootstrap.
